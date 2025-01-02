@@ -6,9 +6,9 @@ HTTP Request Capture: Captures HTTP requests, displaying the host, path, and des
 Credential Detection: Scans HTTP payloads for potential sensitive information such as usernames and passwords. 
 
 **Requirements** \
-Python 3.x \
-Scapy library \
-npcap (for windows)
+ Python 3.x \
+  Scapy library \
+  npcap (for windows)
 
 **Clone the repository**
 ```
