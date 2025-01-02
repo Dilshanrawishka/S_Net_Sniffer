@@ -27,7 +27,7 @@ python sniffer.py -i <interface>
 python sniffer.py
 ```
 
-**in linux** \
+**For linux** \
 **Install Scapy if you haven't already**
 ```
 pip install scapy
