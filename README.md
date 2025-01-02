@@ -37,3 +37,7 @@ pip install scapy
 sudo python sniffer.py
 sudo python sniffer.py -i eth0
 ```
+
+> Example Output of the HTTP Traffic Sniffer
+
+![Alt text](https://github.com/Dilshanrawishka/S_Net_Sniffer/blob/main/Screenshot%202025-01-02%20174837.png)
